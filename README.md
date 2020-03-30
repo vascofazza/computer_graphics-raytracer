@@ -1,6 +1,6 @@
 # Assignment 1: Raytrace
 
-Simple raytracer implementation in C++ in the context of the firt homework of the fundamentals of computer graphics course held by Prof. Fabio Pellacini.
+Simple raytracer implementation in C++ in the context of the first homework of the fundamentals of computer graphics course held by Prof. Fabio Pellacini.
 
 <img src="out/06_aa.png" style="zoom:50%;" />
 
